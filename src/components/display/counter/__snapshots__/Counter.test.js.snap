@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`src/components/display/counter should display the account balance 1`] = `
+<div>
+  1234
+  $
+</div>
+`;
